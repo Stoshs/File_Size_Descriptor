@@ -1,0 +1,11 @@
+C:\Users\ssutkowski.ILM\source\repos\File_Size_Description\File_Size_Description\bin\Debug\netcoreapp3.0\File_Size_Description.exe
+C:\Users\ssutkowski.ILM\source\repos\File_Size_Description\File_Size_Description\bin\Debug\netcoreapp3.0\File_Size_Description.deps.json
+C:\Users\ssutkowski.ILM\source\repos\File_Size_Description\File_Size_Description\bin\Debug\netcoreapp3.0\File_Size_Description.runtimeconfig.json
+C:\Users\ssutkowski.ILM\source\repos\File_Size_Description\File_Size_Description\bin\Debug\netcoreapp3.0\File_Size_Description.runtimeconfig.dev.json
+C:\Users\ssutkowski.ILM\source\repos\File_Size_Description\File_Size_Description\bin\Debug\netcoreapp3.0\File_Size_Description.dll
+C:\Users\ssutkowski.ILM\source\repos\File_Size_Description\File_Size_Description\bin\Debug\netcoreapp3.0\File_Size_Description.pdb
+C:\Users\ssutkowski.ILM\source\repos\File_Size_Description\File_Size_Description\obj\Debug\netcoreapp3.0\File_Size_Description.csprojAssemblyReference.cache
+C:\Users\ssutkowski.ILM\source\repos\File_Size_Description\File_Size_Description\obj\Debug\netcoreapp3.0\File_Size_Description.AssemblyInfoInputs.cache
+C:\Users\ssutkowski.ILM\source\repos\File_Size_Description\File_Size_Description\obj\Debug\netcoreapp3.0\File_Size_Description.AssemblyInfo.cs
+C:\Users\ssutkowski.ILM\source\repos\File_Size_Description\File_Size_Description\obj\Debug\netcoreapp3.0\File_Size_Description.dll
+C:\Users\ssutkowski.ILM\source\repos\File_Size_Description\File_Size_Description\obj\Debug\netcoreapp3.0\File_Size_Description.pdb
